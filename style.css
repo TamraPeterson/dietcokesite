@@ -1,0 +1,32 @@
+.bg-pic{
+  min-height: 100vh;
+  background-image: url('https://www.mashed.com/img/gallery/the-untold-truth-of-diet-coke/intro-1592501690.jpg');
+  background-size: cover;
+}
+/* header{
+  height: 300px
+} */
+
+
+/* .logo{
+  background-image: url('https://res.cloudinary.com/sonic-drive-in/image/upload/c_fit,w_200,h_200,dpr_2,f_auto,q_auto/v1506543842/oa_menu/products/circle-diet-coke.png');
+  background-size: cover;
+  min-height: 100%;
+} */
+
+.guy{
+  background-image: url("https://metro.co.uk/wp-content/uploads/2018/11/sei_40993094-66de-e1542792127784.jpg?quality=90&strip=all");
+  background-size: cover;
+  min-height: 100%;
+}
+.taylor{
+  background-image: url("https://www.novafm.com.au/wp-content/uploads/2019/11/capture2.jpg");
+  background-size: cover;
+  min-height: 100%;
+}
+.nopepsi{
+  background-image: url("https://www.picclickimg.com/d/l400/pict/371198047134_/3-Say-No-to-Pepsi-Anti-Pin.jpg");
+  background-size: cover;
+  min-height: 100%;
+}
+
